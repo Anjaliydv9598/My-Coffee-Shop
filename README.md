@@ -31,31 +31,31 @@ This project was created for practicing frontend web development and improving H
 
 ### 🏠 Home Page
 
-![Home Page](https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/My%20Coffee%20Shop%20Website.png)
+<img width="1440" alt="Home Page" src="https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/My%20Coffee%20Shop%20Website.png">
 
 ### 📖 About TCS & Trivia
 
-![About TCS](https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/About%20TCS%20%26%20trivia.png)
+<img width="1440" alt="About TCS" src="https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/About%20TCS%20%26%20trivia.png">
 
 ### 📋 TCS Menu
 
-![TCS Menu](https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/TCS%20Menu.png)
+<img width="1440" alt="TCS Menu" src="https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/TCS%20Menu.png">
 
 ### ⏰ TCS Happy Hours
 
-![TCS Happy Hours](https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/TCS%20Happy%20Hours.png)
+<img width="1440" alt="TCS Happy Hours" src="https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/TCS%20Happy%20Hours.png">
 
 ### ☕ TCS Happy Hour's
 
-![TCS Happy Hour's](https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/TCS%20Happy%20Hour's.png)
+<img width="1440" alt="TCS Happy Hour's" src="https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/TCS%20Happy%20Hour's.png">
 
 ### 📞 Contact TCS
 
-![Contact TCS](https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/Contact%20TCS.png)
+<img width="1440" alt="Contact TCS" src="https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/Contact%20TCS.png">
 
 ### 📍 Info & Location of TCS
 
-![Location](https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/Info%20%26%20Location%20of%20TCS.png)
+<img width="1440" alt="Location" src="https://github.com/Anjaliydv9598/My-Coffee-Shop/raw/main/Info%20%26%20Location%20of%20TCS.png">
 
 ## Author
 
